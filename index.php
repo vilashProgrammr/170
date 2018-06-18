@@ -5,7 +5,8 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
-	
+	//DJ clone test , machine used from global environment
+	//DJ clone test , machine used from global environment
 }
 // delete condition
 
